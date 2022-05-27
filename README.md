@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Brightlaz
-- 👀 I’m a Web Developer
-- 🌱 An expert at JS, node.js currently leaRning react.js
+- 👀 I am a front-end Web Developer
+- 🌱 An expert at JS, node.js currently learning react.js
 - 💞️ I’m willing to callaborate and work with in a team to achieve a given task
+- ✨ Read my profile to know more about me
 - 📫 You can reach out to me via whatsapp [09023968637]
 
 <!---
