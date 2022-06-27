@@ -16,8 +16,8 @@ I am a front-end Web Developer based in port harcourt, Nigeria
 
 <span>
   <img width="30px" src="https://w7.pngwing.com/pngs/1016/998/png-transparent-figma-brands-icon.png">
-  <img width="60px" src="https://w7.pngwing.com/pngs/574/164/png-transparent-react-computer-icons-redux-javascript-others-symmetry-electron-redux.png">
-  <img width="60px" src="https://w7.pngwing.com/pngs/635/323/png-transparent-javascript-computer-programming-scripting-language-computer-icons-java-script-text-logo-mobile-app-development.png">
+  <img width="55px" src="https://w7.pngwing.com/pngs/574/164/png-transparent-react-computer-icons-redux-javascript-others-symmetry-electron-redux.png">
+  <img width="55px" src="https://w7.pngwing.com/pngs/635/323/png-transparent-javascript-computer-programming-scripting-language-computer-icons-java-script-text-logo-mobile-app-development.png">
   <img width="30px" src="https://w7.pngwing.com/pngs/611/356/png-transparent-node-js-javascript-express-js-angularjs-random-icons-text-logo-number.png">
 </span>
   
