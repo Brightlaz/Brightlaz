@@ -1,6 +1,9 @@
-👋 Hi, I’m Bright Lazarus
 
-<img src="https://img.freepik.com/free-vector/seo-search-engine-optimization-concept_107791-9635.jpg">
+### 👋 Hi, I’m Bright Lazarus
+
+<hr>
+
+<img src="https://img.freepik.com/free-photo/close-up-image-programer-working-his-desk-office_1098-18707.jpg?t=st=1656581688~exp=1656582288~hmac=466405f42b44328a8c04e43bde741822401cbb1ce18157cc7fc551c802404ebb">
 
 I am a front-end Web Developer based in port harcourt, Nigeria
 
