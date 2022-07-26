@@ -1,5 +1,5 @@
 
-### 👋 Hi, I’m Bright Lazarus
+# 👋 Hi, I’m Bright Lazarus
 
 <hr>
 
@@ -33,7 +33,9 @@ I am a front-end Web Developer based in port harcourt, Nigeria
 - ⚡ Fun fact: Am open to new ideas
 
   
+<!---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brightlaz&layout=compact)](https://github.com/Brightlaz/github-readme-stats)
+--->
   
   
 [![Bright's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brightlaz&hide=issues&show_icons=true&theme=graywhite&show_owner)](https://github.com/Brightlaz/github-readme-stats)
