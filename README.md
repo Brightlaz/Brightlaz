@@ -39,7 +39,7 @@ I am a front-end Web Developer based in port harcourt, Nigeria
 [![Bright's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brightlaz&hide=issues&show_icons=true&theme=graywhite&show_owner)](https://github.com/Brightlaz/github-readme-stats)
 
   
-> Feel free to check out my portfolio <a href="https://brightlaz.github.io/brightlazarus/" target="_blank">here</a>
+> Feel free to check out my portfolio <a href="https://bright-lazarus.netlify.app/" target="_blank">here</a>
 
 <!---
 Brightlaz/Brightlaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
